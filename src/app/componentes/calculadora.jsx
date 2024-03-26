@@ -23,7 +23,7 @@ const Calculator = () => {
   };
 
   return (
-    <div className="bg-gradient-to-br from-gray-900 to-gray-700 bg-opacity-90 rounded-lg p-4 w-72 mx-auto mt-10 shadow-lg">
+    <div className="bg-gradient-to-br from-gray-900 to-gray-700 bg-opacity-90 rounded-lg p-4 w-72 mx-auto mt-5 shadow-lg">
       <input
         type="text"
         value={expression}
